@@ -1,0 +1,15 @@
+footer{
+    bottom: 0%;
+    width: 100%;
+    clear: left;
+    text-align: center;
+    width: 100%;
+    font-size: 1.1em;
+    position: absolute;
+    padding-top: .5em;
+}
+
+/* size of name in header */
+#name{
+    font-size: 3.5em;
+}
