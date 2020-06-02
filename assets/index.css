@@ -13,3 +13,10 @@ footer{
 #name{
     font-size: 3.5em;
 }
+
+/* html and body sizing for footer compared to content */
+html, body{
+    min-height: 100%;
+    margin-bottom: 100px;
+    clear: both;
+}
