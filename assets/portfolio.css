@@ -20,3 +20,9 @@ html, body{
     margin-bottom: 100px;
     clear: both;
 }
+
+/* image sizing */
+img{
+    height: 500px;
+    width: 500px;
+}
